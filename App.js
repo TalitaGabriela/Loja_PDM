@@ -21,6 +21,7 @@ return (
 const styles = StyleSheet.create({
   conatiner: {
     borderWidth: 1,
+    borderColor
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
